@@ -1,12 +1,10 @@
 /**
  *  Bootstrap pull for Twitter Bootstrap v3.
  *  
- *   To have pull-right and pull-left to Bootstrap v3 for xs, sm, md, lg media.
- *   This will help having some complex behavior for contents.
+ *  To have pull-right and pull-left to Bootstrap v3 for xs, sm, md, lg media.
+ *  This will help having some complex behavior for contents.
+ *  https://github.com/Natshah/bootstrap-pull
  *
- *   Rajab Natshah
- *   rajab.natshah.com
- *   rajab@natshah.com
  */
 
 
@@ -32,6 +30,7 @@
   .pull-right-sm {
     float: right;
   }
+}
 
 @media (min-width: 992px) {
   /** Pull left **/
