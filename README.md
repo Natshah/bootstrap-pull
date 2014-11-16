@@ -16,4 +16,6 @@ bootstrap-pull
       pull-right-lg
       
     
-   Rajab Natshah  rajab@natshah.com   rajab.natshah.com 
+   - Rajab Natshah
+   - rajab@natshah.com
+   - rajab.natshah.com 
