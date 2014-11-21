@@ -1,4 +1,4 @@
-bootstrap-pull 3.x-1.1
+Bootstrap Pull 3.x-1.1
 ==============
 
    Bootstrap pull for Twitter Bootstrap v3.
