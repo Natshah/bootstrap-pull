@@ -17,5 +17,4 @@ Bootstrap Pull 3.x-1.1.1
       
     
    - Rajab Natshah
-   - rajab@natshah.com
-   - rajab.natshah.com 
+   - http://natshah.com 
