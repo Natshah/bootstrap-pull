@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-pull",
+  "version": "3.0.2",
+  "description": "\"Bootstrap pull for Twitter Bootstrap v3.\"",
+  "main": "bootstrap-pull.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidouglas/bootstrap-pull.git"
+  },
+  "author": "Natshah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidouglas/bootstrap-pull/issues"
+  },
+  "homepage": "https://github.com/sidouglas/bootstrap-pull#readme"
+}
