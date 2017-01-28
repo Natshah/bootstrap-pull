@@ -1,4 +1,4 @@
-Bootstrap Pull 3.x-1.1.1
+# Bootstrap Pull 3.1.1
 ==============
 
    Bootstrap pull for Twitter Bootstrap v3.
@@ -15,6 +15,9 @@ Bootstrap Pull 3.x-1.1.1
       pull-left-lg
       pull-right-lg
       
-    
+```
+composer require natshah/bootstrap-pull
+```   
+ 
    - Rajab Natshah
    - http://natshah.com 

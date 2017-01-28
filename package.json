@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-pull",
+  "version": "3.1.1",
+  "description": "Bootstrap pull for Twitter Bootstrap v3. To have pull-right and pull-left for Bootstrap v3 for xs, sm, md, lg media. This will help having some complex behavior for contents.",
+  "dependencies": {
+    "bootstrap": "^3.*"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Natshah/bootstrap-pull.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap3",
+    "pull"
+  ],
+  "author": "Rajab Natshah <rajabn@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://natshah.com"
+}
